@@ -11,3 +11,8 @@
 - v-model
 - v-else
 - v-on
+
+### 2.What is Filters in VueJs?
+A Filter is a simple JavaScript function which is used to apply formatting on output of a data to the browser. 
+we can use filters in two different ways i.e. Global filter and Local filter.
+Filters are usable in two places: mustache interpolations and v-bind expressions
